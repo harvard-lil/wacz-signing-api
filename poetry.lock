@@ -599,13 +599,13 @@ zstd = ["zstandard (>=0.18.0)"]
 
 [[package]]
 name = "wacz-signing"
-version = "0.3.7"
+version = "0.3.8"
 description = "A library for signing and timestamping file hashes"
 optional = false
-python-versions = ">=3.9,<4.0"
+python-versions = "<4.0,>=3.9"
 files = [
-    {file = "wacz_signing-0.3.7-py3-none-any.whl", hash = "sha256:823e4d8cb8e204d303c07dbe59db0ba9e7d4400e9ead2460cf225a2871d14181"},
-    {file = "wacz_signing-0.3.7.tar.gz", hash = "sha256:deaf6ef175e3229fcc6726418a315eb345a7631a686435b04ab36a869cfe35ae"},
+    {file = "wacz_signing-0.3.8-py3-none-any.whl", hash = "sha256:6d3fcd96b734fc38fde8044f57c3bc1c0f04b9a1906c8c777fe409b97b1ea5c0"},
+    {file = "wacz_signing-0.3.8.tar.gz", hash = "sha256:03a600dcf075899120bfc535acf266a278c34f68ce93a4d1be892ec3952ea9fe"},
 ]
 
 [package.dependencies]
