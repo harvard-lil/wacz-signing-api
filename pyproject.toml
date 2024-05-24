@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "wacz-signing-api"
-version = "0.1.1"
+version = "0.1.2"
 description = "Flask application for WACZ signing"
 authors = ["Ben Steinberg <bsteinberg@law.harvard.edu>"]
 readme = "README.md"

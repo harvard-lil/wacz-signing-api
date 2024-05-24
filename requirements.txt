@@ -299,9 +299,9 @@ six==1.16.0 ; python_version >= "3.9" and python_version < "4.0" \
 urllib3==2.2.1 ; python_version >= "3.9" and python_version < "4.0" \
     --hash=sha256:450b20ec296a467077128bff42b73080516e71b56ff59a60a02bef2232c4fa9d \
     --hash=sha256:d0570876c61ab9e520d776c38acbbb5b05a776d3f9ff98a5c8fd5162a444cf19
-wacz-signing==0.3.8 ; python_version >= "3.9" and python_version < "4.0" \
-    --hash=sha256:03a600dcf075899120bfc535acf266a278c34f68ce93a4d1be892ec3952ea9fe \
-    --hash=sha256:6d3fcd96b734fc38fde8044f57c3bc1c0f04b9a1906c8c777fe409b97b1ea5c0
+wacz-signing==0.3.9 ; python_version >= "3.9" and python_version < "4.0" \
+    --hash=sha256:2fad37c63d58ce2b606b9924409706bdcc13f25c2be901a9e4fe3100ff6d5d35 \
+    --hash=sha256:fb9da1ffae09dee77b41f7392216955f1487fda1f7bb564a3fc48b53e1ac3cac
 werkzeug==3.0.1 ; python_version >= "3.9" and python_version < "4.0" \
     --hash=sha256:507e811ecea72b18a404947aded4b3390e1db8f826b494d76550ef45bb3b1dcc \
     --hash=sha256:90a285dc0e42ad56b34e696398b8122ee4c681833fb35b8334a095d82c56da10
