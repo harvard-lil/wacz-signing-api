@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "wacz-signing-api"
-version = "0.1.2"
+version = "0.1.3"
 description = "Flask application for WACZ signing"
 authors = ["Ben Steinberg <bsteinberg@law.harvard.edu>"]
 readme = "README.md"
@@ -9,7 +9,7 @@ packages = [{include = "wacz_signing_api"}]
 [tool.poetry.dependencies]
 python = "^3.9"
 Flask = "^2.2.2"
-wacz-signing = "^0.3.4"
+wacz-signing = "^0.4.0"
 gunicorn = "^20.1.0"
 
 
